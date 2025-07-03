@@ -1,0 +1,144 @@
+
+#canvasBox{
+	overflow:hidden;
+}
+
+.subButton1 {
+	width: 155px;
+	margin: 2px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.mainTitle p{
+	font-size:25px !important;
+	margin-top:10px !important;
+	padding:0px 0px 3px 0px !important;
+	width:540px !important;
+	
+}
+.instruction {
+	padding: 5px 0px 1px 2px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:300;
+	color:#626262;
+	text-align: left !important;
+}
+#instructionTxt{
+    padding: 5px 0px 4px 2px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight:300;
+	background-color:#FFC;
+	top:330px;
+	color:#000;
+	border:solid #F96;
+	border-width:thin;
+	position:absolute;
+	z-index:999999999; 
+	left:435px;
+	text-align: left !important;	
+}
+.instruction1 {
+	padding: 5px 0px 0px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:300;
+	color:#626262;
+	text-align: left !important;
+}
+#StndSoln3{
+	
+	position: absolute;
+	z-index:9999999999;
+	top:375px;
+	width:65px;
+	height:65px;
+	left:200px;
+	cursor:pointer;
+}
+#StndSoln2{
+	position: absolute;
+	z-index:9999999999;
+	top:375px;
+	width:65px;
+	height:65px;
+	left:140px;
+	cursor:pointer;
+}
+#StndSoln1{
+	position: absolute;
+	z-index:9999999999;
+	top:375px;
+	width:65px;
+	height:65px;
+	left:80px;
+	cursor:pointer;
+}
+#StndSoln0{
+	position: absolute;
+	z-index:9999999999;
+	top:375px;
+	width:65px;
+	height:65px;
+	left:20px;
+	cursor:pointer;
+}
+
+#imgBox{
+	
+	 width:50px;
+	 top:375px; 
+	 height:65; 
+	 left:260px; 
+     cursor:pointer;
+}
+#topValue {
+	position: absolute;
+	font-family: Digiface;
+	font-size: 20px;
+	top:211px;
+	left:82px;
+    color:#ACCB30;
+	z-index:999999999;
+}
+#img0{
+    position: absolute;
+	z-index:9999999999;
+	top:375px;
+	width:65px;
+	height:65px;
+	left:260px;
+	
+}
+#pipe{
+    position: absolute;
+	z-index:99999;
+	top:327px;
+	left:422px;
+
+}
+#kflame{
+    position:absolute;
+	top:177px;
+	left:413px;
+	height:33px;
+
+}
+#naflame{
+    position:absolute;
+	display:none;	
+	top:177px;
+	left:413px;
+	height:33px;
+}
+#img1,#img2, #img3, #img4, #img5, #img6, #img7,#img8,#img9 {
+	 position:absolute;
+     width:65px;
+	 height:65px;
+	 display:none;
+	 top:375px;
+	 left:260px;
+}

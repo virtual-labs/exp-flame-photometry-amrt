@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<SCENE ID="Scene1">
+	<TEXT ID="Scene1_one">
+	<TEXTVALUE>Point the mouse to each requirement of the experiment to know the name / Click the "Continue" button to start the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene2">
+	<TEXT ID="Scene2_one">
+	<TEXTVALUE>Take a butter paper from the lab bench.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene3">
+	<TEXT ID="Scene3_one">
+	<TEXTVALUE>Place it on the electronic weighing balance and calibrate the value as shown.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Scene4">
+	<TEXT ID="Scene4_one">
+	<TEXTVALUE>Open the cap of Sodium hydroxide bottle and a clean spatula from the lab bench.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="5Addsodiumhydroxide">
+	<TEXT ID="5Addsodiumhydroxide_one">
+	<TEXTVALUE>With the clean spatula, take NaOH crystals from the bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6Addsodiumhydroxide">
+	<TEXT ID="6Addsodiumhydroxide_one">
+	<TEXTVALUE>Accurately weigh 02.5421g of NaOH crystals.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7lidopen">
+	<TEXT ID="7lidopen_one">
+	<TEXTVALUE>Open the cap of a 1000 mL standard flask and place a paper hook on the neck of the standard flask as shown. Take a funnel and place it on the mouth of the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8take">
+	<TEXT ID="8take_one">
+	<TEXTVALUE>Take the measured amount of NaOH crystals (2.5421 g) from the electronic balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="9addsoult">
+	<TEXT ID="9addsoult_one">
+	<TEXTVALUE>Carefully transfer the NaOH crystals completely into the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="10takewaterbottile">
+	<TEXT ID="10takewaterbottile_one">
+	<TEXTVALUE>Take the bottle containing distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11aadwater">
+	<TEXT ID="11aadwater_one">
+	<TEXTVALUE>Pour little amount of water into the flask inorder to dissolve the NaOH crystals. Wash the tip of the funnel as shown.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="12keepbackfunnel">
+	<TEXT ID="12keepbackfunnel_one">
+	<TEXTVALUE>Replace the funnel on the lab bench and remove the paper hook from the standard flask. Dissolve the NaOH completely and make up the solution to the standard mark and close the lid of the flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="13shak">
+	<TEXT ID="13shak_one">
+	<TEXTVALUE>Shake the solution well to obtain a uniform concentration.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14labelled">
+	<TEXT ID="14labelled_one">
+	<TEXTVALUE>Label it as “1000 ppm Na Solution” and keep it on the lab bench.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="15takepipt">
+	<TEXT ID="15takepipt_one">
+	<TEXTVALUE>Take a pipette sucker and a 10 mL pipette from the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="16connected">
+	<TEXT ID="16connected_one">
+	<TEXTVALUE>Connect 10 mL pipette to the pipette sucker as shown.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17takesolution">
+	<TEXT ID="17takesolution_one">
+	<TEXTVALUE>Open the lid of the 1000 mL standard flask and pipette out 10 mL of 1000ppm NaOH solution from the standard flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17takesolution_two">
+	<TEXTVALUE>Open the lid of one 100 mL standard flask and transfer 10 mL stock solution (1000ppm NaOH solution) into the standard flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="17takesolution_three">
+	<TEXTVALUE>Using distilled water and make up the solution to the standard mark. Close the lid of the flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="18shak">
+	<TEXT ID="18shak_one">
+	<TEXTVALUE>Shake well to obtain uniform concentration of solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="19labl">
+	<TEXT ID="19labl_one">
+	<TEXTVALUE>Label it as “100ppm Na solution” and keep it on the lab bench.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20takepipt">
+	<TEXT ID="20takepipt_one">
+	<TEXTVALUE>Take a pipette sucker and a 10 mL pipette from the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="21connecte">
+	<TEXT ID="21connecte_one">
+	<TEXTVALUE>Connect 10 mL pipette to the pipette sucker as shown.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="22takesolution">
+	<TEXT ID="22takesolution_one">
+	<TEXTVALUE>Open the lid of the 100 mL standard flask containing 100 ppm NaOH solution and pipette out 10 mL solution from the standard flask. Close the lid of the standard flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="22takesolution_two">
+	<TEXTVALUE> Open the lid of another 100 mL standard flask and transfer the10 mL solution (100pm NaOH solution) into 100 mL standard flask.</TEXTVALUE>
+	</TEXT>	
+	<TEXT ID="22takesolution_three">
+	<TEXTVALUE>Add distilled water to and makeup the solution to the standard mark. Close the lid of the flask.</TEXTVALUE>
+	</TEXT>		
+	</SCENE>
+
+<SCENE ID="23shak">
+	<TEXT ID="23shak_one">
+	<TEXTVALUE>Shake well to obtain the uniform concentration of the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="24labl">
+	<TEXT ID="24labl_one">
+	<TEXTVALUE>Label the solution as “10 ppm Na solution” and keep it on the lab bench.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="25photo">
+	<TEXT ID="25photo_one">
+	<TEXTVALUE>Take the gas pipe and connect to flame photometer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="26CONNECT">
+	<TEXT ID="26CONNECT_one">
+	<TEXTVALUE>Connect the gas pipe to the flame photometer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="27connect">
+	<TEXT ID="27connect_one">
+	<TEXTVALUE>Take the compressor pipe and connect to the flame photometer. Then take the capillary tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28connect">
+	<TEXT ID="28connect_one">
+	<TEXTVALUE>Connect the capillary tube to the flame photometer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="29connect">
+	<TEXT ID="29connect_one">
+	<TEXTVALUE>Take another pipe and connect it to the drainage tube of the flame photometer. Take the tray containing the cuvettes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="30addwater">
+	<TEXT ID="30addwater_one">
+	<TEXTVALUE>Add distilled water to one of the cuvette kept in the cuvette holder. Put capillary tube in to the cuvette which contains the distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="31takewair">
+	<TEXT ID="31takewair_one">
+	<TEXTVALUE>Take the power cable.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="32plegd">
+	<TEXT ID="32plegd_one">
+	<TEXTVALUE>Connect the wire to the power plug.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="33takewair">
+	<TEXT ID="33takewair_one">
+	<TEXTVALUE>Take the another power cable.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="34plegd">
+	<TEXT ID="34plegd_one">
+	<TEXTVALUE>Connect to the power plug and switch on the power supply.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="35pressure">
+	<TEXT ID="35pressure_one">
+	<TEXTVALUE>Adjust the pressure using its nobe. Adjust the pressure to 0.3-0.5 Kg/cm².</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="36takelighter">
+	<TEXT ID="36takelighter_one">
+	<TEXTVALUE>Take the gas lighter from the table.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="37photosd">
+	<TEXT ID="37photosd_one">
+	<TEXTVALUE>Open the ignition window of the flame photometer and lighten the burner in it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="38flamev">
+	<TEXT ID="38flamev_one">
+	<TEXTVALUE>Carefully observe the flame in the flame photometer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="39adjust">
+	<TEXT ID="39adjust_one">
+	<TEXTVALUE>Adjust the flame using the nobe of flame photometer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="40Calibratingflamephotometer">
+	<TEXT ID="40Calibratingflamephotometer_one">
+	<TEXTVALUE>Calibration of the flame photometer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="41option">
+	<TEXT ID="41option_one">
+	<TEXTVALUE>Press “1” for calibrating the flame photometer. Select the concentration level by pressing suitable number key. Press 1 for “low concentration”. First aspirate distilled water. Put the capillary tube in the cuvette containing distilled water and press enter button to continue the process.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="42chart">
+	<TEXT ID="42chart_one">
+	<TEXTVALUE>The diagrammatic representation of flame photometer is shown.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="43option">
+	<TEXT ID="43option_one">
+	<TEXTVALUE>Aspirate STD in the display means aspirate standard solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="44take">
+	<TEXT ID="44take_one">
+	<TEXTVALUE>Open the lid of 10ppm standard solution of NaOH.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="45addsolution">
+	<TEXT ID="45addsolution_one">
+	<TEXTVALUE>Pour the solution into a 100 mL beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="46keepback">
+	<TEXT ID="46keepback_one">
+	<TEXTVALUE>Place the standard flask on the table and close the lid of the flask. Take the 100 mL beaker containing the 10ppm standard NaOH solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="47addwater">
+	<TEXT ID="47addwater_one">
+	<TEXTVALUE>Pour little amount of 10ppm solution in to the second cuvette in the cuvette holder. Take the capillary tube from the cuvette containing distilled water and keep in the cuvette containing 10ppm NaOH solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="48enter">
+	<TEXT ID="48enter_one">
+	<TEXTVALUE>Then press “enter” button to continue the process.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="49chart">
+	<TEXT ID="49chart_one">
+	<TEXTVALUE>Schematic representation of process in the flame photometer is as shown. Due to pressure, solution from the cuvette moves to flame through atomizer, mixing chamber and burner. Finally the solution gets sprayed in to the flame.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="49chart2">
+	<TEXT ID="49chart2_one">
+	<TEXTVALUE>Electrons of the sodium atom absorb energy (589 nm) in the flame. Electron get excited and moves from lower energy level (3s)to higher energy level (3p). From higher energy level, excited electron releases its energy and move to lower energy level.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="49chart3">
+	<TEXT ID="49chart3_one">
+	<TEXTVALUE>Photo detector detects the wavelength of the emitted energy.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="49chart4">
+	<TEXT ID="49chart4_one">
+	<TEXTVALUE>Inside the monochromator radiation first passes through the lens. The path of the radiation energy is shown as above. Radiation energy strikes in the Photo detector.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="49chart5">
+	<TEXT ID="49chart5_one">
+	<TEXTVALUE>From the photo detector the output goes to the electronic module, which helps in digitalizing the output data. The output can be visualized in printer or LCD display.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="50ASPIRETED">
+	<TEXT ID="50ASPIRETED_one">
+	<TEXTVALUE>Then aspirate the flame photometer again with distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="51ADDWATERTUBE">
+	<TEXT ID="51ADDWATERTUBE_one">
+	<TEXTVALUE>Take the capillary tube from the cuvette containing NaOH solution and keep it again in the distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="52PRES">
+	<TEXT ID="52PRES_one">
+	<TEXTVALUE>Select the higher concentration by pressing “2” key and aspirate the instrument with distilled water by pressing the “enter” button. Aspirate the flame photometer with the other standard solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="53take">
+	<TEXT ID="53take_one">
+	<TEXTVALUE>Take the 100ppm standard solution and open the lid of the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="54addsolution">
+	<TEXT ID="54addsolution_one">
+	<TEXTVALUE>Pour solution into a 100mL beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="55keepback">
+	<TEXT ID="55keepback_one">
+	<TEXTVALUE>Keep the standard flask on the lab bench and close the lid. Take the 100 ppm NaOH solution in the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="56addsolution">
+	<TEXT ID="56addsolution_one">
+	<TEXTVALUE>Add little amount of 100 ppm NaOH solution into third cuvette. Place the capillary tube into the cuvette containing 100 ppm NaOH solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="57enter">
+	<TEXT ID="57enter_one">
+	<TEXTVALUE>Then press “enter” button to continue the process.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="58chart">
+	<TEXT ID="58chart_one">
+	<TEXTVALUE>The schematic representation of the process in the flame photometer is shown. Due to pressure, solution from the cuvette moves to flame through atomizer, mixing chamber and burner. Finally the solution gets sprayed in to the flame.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="58chart1">
+	<TEXT ID="58chart1_one">
+	<TEXTVALUE>Electrons of the sodium atom absorb energy (589 nm) in the flame. Electron get excited and moves from lower energy level (3s)to higher energy level(3p). From higher energy level, excited electron releases its energy and move to lower energy level.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="58chart2">
+	<TEXT ID="58chart2_one">
+	<TEXTVALUE>Photo detector detects the wavelength of emitted energy.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="58char3">
+	<TEXT ID="58char3_one">
+	<TEXTVALUE>Inside the monochromator radiation first passes through the lens. The path of the radiation energy is shown as above. Radiation energy strikes in the Photo detector.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="58char4">
+	<TEXT ID="58char4_one">
+	<TEXTVALUE>From the photo detector the output goes to the electronic module, which helps in digitalizing the output data. The output can be visualized in printer or LCD display.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="59ASPIRETED">
+	<TEXT ID="59ASPIRETED_one">
+	<TEXTVALUE>Aspirate the instrument with distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="60tubereplace">
+	<TEXT ID="60tubereplace_one">
+	<TEXTVALUE>Change the capillary tube from the cuvette containing 100 ppm NaOH solution and put it in the cuvette containing distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="61ente">
+	<TEXT ID="61ente_one">
+	<TEXTVALUE>Then press “enter” button to continue the process.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="62CalibrationisoverStartsampleanalysis">
+	<TEXT ID="62CalibrationisoverStartsampleanalysis_one">
+	<TEXTVALUE>After instrument calibration step start the sample analysis step.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="63vtake">
+	<TEXT ID="63vtake_one">
+	<TEXTVALUE>Take the sample solution in the standard flask and open the lid of the flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="64addsolution">
+	<TEXT ID="64addsolution_one">
+	<TEXTVALUE>Pour the sample solution into a 100mL beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="65keepback">
+	<TEXT ID="65keepback_one">
+	<TEXTVALUE>Place the standard flask on the table and close the lid of the flask. Take the sample solution in the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="66addsolution">
+	<TEXT ID="66addsolution_one">
+	<TEXTVALUE>Pour little amount of the sample solution in to the fourth cuvette in the cuvette holder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="67ente">
+	<TEXT ID="67ente_one">
+	<TEXTVALUE>Then start up the aspiration step.  Press “enter” button for the aspiration of distilled water. Aspirate the sample solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="68tubeadd">
+	<TEXT ID="68tubeadd_one">
+	<TEXTVALUE>Take the capillary tube from the distilled water and keep it in the cuvette containing sample solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="69enter">
+	<TEXT ID="69enter_one">
+	<TEXTVALUE>Press enter” button to continue the process.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="70chart1">
+	<TEXT ID="70chart1_one">
+	<TEXTVALUE>Schematic representation of process in the flame photometer is as shown. Due to pressure, solution from the cuvette moves to flame through atomizer, mixing chamber and burner. Finally the solution gets sprayed in to the flame.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="70chart2">
+	<TEXT ID="70chart2_one">
+	<TEXTVALUE>The electrons of the sodium atom absorb energy (589 nm ) in the flame. Electron get excited and moves from lower energy level (3s)to higher energy level (3p). From higher energy level, excited electron releases its energy and move to lower energy level.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="70chart3">
+	<TEXT ID="70chart3_one">
+	<TEXTVALUE>Photo detector detects the wavelength of emitted energy.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="70char4">
+	<TEXT ID="70char4_one">
+	<TEXTVALUE>Inside the monochromator radiation first passes through the lens. The path of the radiation energy is shown as above. Radiation energy strikes in the Photo detector.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="70char5">
+	<TEXT ID="70char5_one">
+	<TEXTVALUE>From the photo detector the output goes to the electronic module, which helps in digitalizing the output data. The output can be visualized in printer or LCD display.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="71ASPIRETED">
+	<TEXT ID="71ASPIRETED_one">
+	<TEXTVALUE>Finally aspirate the instrument with distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="72tubedipwater">
+	<TEXT ID="72tubedipwater_one">
+	<TEXTVALUE>Take the capillary tube from the sample solution and keep it in the cuvette containing distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="73enter">
+	<TEXT ID="73enter_one">
+	<TEXTVALUE>Press the enter key.The result showing on the display as Na=15 ppm. That is the concentration of the sample solution is calculated as 15 ppm.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+</DATA>
