@@ -1,4 +1,63 @@
-### Procedure
+## Procedure
+<h2>Materials Required:</h2>
+<ul>
+  <li>Flame Photometer</li>
+  <li>Cuvette</li>
+  <li>Gas Cylinder</li>
+  <li>Beaker</li>
+  <li>Standard flask</li>
+  <li>Graduated pipette</li>
+  <li>Wash bottle</li>
+</ul>
+
+<h3>Reagents:</h3>
+<ul>
+  <li>Fruit juices: Grapes, Guava, Lime, Lemon, Mango, Orange, Papaya, Tomato, Apple</li>
+  <li>5, 10 and 15 ppm Sodium and Potassium standards</li>
+  <li>Distilled water</li>
+</ul>
+
+<h2>Procedure:</h2>
+<ol>
+  <li>Select the Test.</li>
+  <li>Click and drag each of the standard solution below the Capillary tube and click on the "Aspirate" button to calibrate the machine.</li>
+  <li>Drag the standard solution to place it in the original position.</li>
+  <li>After calibration select the sample solution from the list.</li>
+  <li>Click and drag the fruit juice sample below the Capillary tube and click on the "Start Test" button to measure the concentration.</li>
+</ol>
+
+<h3>Method of Preparation of Fruit Juice:</h3>
+<ol>
+  <li>To 10 mL of fruit juice add 50 mL deionised water.</li>
+  <li>Filter this solution through an ashless filter paper (e.g: Whatmann 540) into a 1-liter volumetric flask.</li>
+  <li>Make up to the mark with deionised water.</li>
+</ol>
+<p><strong>Note:</strong> If the concentration in the fruit juice is outside the range of standards, the sample should be diluted accordingly.</p>
+<p>Here the dilution factor for potassium is <strong>100</strong> and for sodium is <strong>1</strong>.</p>
+
+<h2>Observations and Calculations:</h2>
+<p>Concentration of potassium obtained from the flame photometer: <strong>C = ....................... ppm</strong></p>
+<p>Therefore, concentration of potassium in the original fruit juice: <strong>C × dilution factor = ....................... ppm</strong></p>
+
+<p>Concentration of sodium obtained from the flame photometer: <strong>C = ....................... ppm</strong></p>
+<p>Therefore, concentration of sodium in the original fruit juice: <strong>C × dilution factor = ....................... ppm</strong></p>
+
+<h2>Results:</h2>
+<p><strong>Concentration of potassium in the original fruit juice = ....................... ppm</strong></p>
+<p><strong>Concentration of sodium in the original fruit juice = ....................... ppm</strong></p>
+
+<h2>Points to Remember while Performing the Experiment in a Real Laboratory:</h2>
+<ul>
+  <li>Always wear lab coat and gloves when you are in the lab.</li>
+  <li>Switch on the exhaust fan and ensure all chemicals and reagents are available.</li>
+  <li>Adjust the flame of the Bunsen burner properly — it should be a small blue cone.</li>
+  <li>Clean all apparatus with chromic acid and distilled water. Ensure they are dry.</li>
+  <li>Calibrate the electronic balance before use.</li>
+  <li>Recap reagent bottles and switch off equipment before leaving the lab.</li>
+  <li>Dispose of used gloves in a proper waste bin.</li>
+</ul>
+
+
 
 <br><br><br><br><br>
 
