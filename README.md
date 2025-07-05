@@ -3,12 +3,12 @@
 
 <b>Discipline | <b> Chemical Sciences
 :--|:--|
-<b> Lab | <b> Advanced Analytical Chemistry Virtual Lab
+<b> Lab | <b> Flame Photometry
 <b> Experiment|     <b> Fill your experiment name and number here
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+To determine the concentration of certain metal ions such as sodium, potassium, lithium, calcium, Cesium, etc. and to understand the concept of flame reaction
 
 <b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
