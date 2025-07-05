@@ -2,35 +2,52 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The colour of Sodium in flame photometer",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Red",
+        "b": "Blue",
+        "c": "Yellow",
+        "d": "Orange"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect: Lithium shows red",
+        "b": "Incorrect: Potassium shows violet/blue",
+        "c": "Correct: Sodium gives yellow color",
+        "d": "Incorrect: Calcium gives orange"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following relates the intensity of the light emitted and concentration of the element?",
+      "answers": {
+        "a": "Scheibe-Lomakin equation",
+        "b": "IlKovic Equation",
+        "c": "Tafel equation",
+        "d": "Poiseuille’s equation"
+      },
+      "explanations": {
+        "a": "Correct: Used in flame photometry for calibration",
+        "b": "Incorrect: Related to polarography",
+        "c": "Incorrect: Related to electrochemical kinetics",
+        "d": "Incorrect: Describes fluid flow"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following is necessary for the flame photometric reaction?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Electrical energy",
+        "b": "Chemical energy",
+        "c": "Thermal energy",
+        "d": "Kinetic energy"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect: Electrical energy not used directly",
+        "b": "Incorrect: Chemical energy is not the main driver",
+        "c": "Correct: Flame provides thermal energy to excite atoms",
+        "d": "Incorrect: Not the dominant factor"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"

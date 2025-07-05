@@ -1,38 +1,38 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+     {
+      "question": "Expand FAES",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Free Atomic Exciting System",
+        "b": "Fischer Absorption Electrolytic Study",
+        "c": "Flame Atomic Emission Spectrometry",
+        "d": "Ferrocyanide Accelerator Elementary Scavenger"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect expansion of FAES",
+        "b": "Incorrect expansion of FAES",
+        "c": "Correct: FAES stands for Flame Atomic Emission Spectrometry",
+        "d": "Incorrect expansion of FAES"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Interference type color filters is present in",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "None of the above",
+        "b": "Optical system",
+        "c": "Photo detector",
+        "d": "Nebuliser"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect: Color filters are used in optical components",
+        "b": "Correct: Interference filters are part of the optical system",
+        "c": "Incorrect: Photo detector detects light, doesn't use filters",
+        "d": "Incorrect: Nebuliser is for aerosol generation"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
